@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Orange</string>
+    <string name="facebook_app_id">118082212123036</string>
+    <string name="fb_login_protocol_scheme">fb118082212123036</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
